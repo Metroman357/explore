@@ -27,6 +27,6 @@ items:
  - chunkypixel/TIATracker
  - milkytracker/MilkyTracker
 display_name: Music
-created_by: jonrohan
+创建_：you jonrohan
 ---
-Drop the code bass with these musically themed repositories.
+删除代码低音与这些音乐主题存储库。
